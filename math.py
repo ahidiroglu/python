@@ -1,5 +1,9 @@
 #!/bin/python
-count = 10
-while(count > 0):
-    print("*?" * count)
-    count -= 2
+ali = 10
+while(ali > 0):
+    print("*?" * ali)
+    ali -= 2
+
+
+ali = 10
+while(ali > 0):

@@ -7,7 +7,7 @@ str1 = 'hello'
 str2 = "Ali are you good"
 
 print (str1)
-print (str2[0:4])
+print (str2[0:2])
 
 mylist1 = [12345, 'lets', 'do', 'the', 78910]
 mylist2 = ['is', 'it', "going", "work"]
