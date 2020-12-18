@@ -1,7 +1,5 @@
-
-
-def printHello(arg1):
-    print('Hello ', arg1)
+def printHello(arg10):
+    print('Naber', arg10)
 
 
 name = input("What is your name :")

@@ -1,4 +1,4 @@
-interview = 85
+interview = 72
 if interview > 70:
     if interview > 70 and interview < 80:
         print("pass in range: 70-80")
